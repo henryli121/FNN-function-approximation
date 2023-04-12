@@ -12,4 +12,4 @@ g(x<sub>1</sub>, x<sub>2</sub>) = (x<sub>1</sub><sup>2</sup> + x<sub>2</sub><sup
 </pre>
 
 <p>More examples of the funtion are in data folder. Moreover, the <code>paper.pdf</code> provides the proofs for the four fundamental equations of the backpropagation in FNN that raised in Nielsen's book, "Neural Networks and Deep Learning". 
-<p>The original code repository is here: <a href="https://github.com/mnielsen/neural-networks-and-deep-learning#license" target="_blank">neural-networks-and-deep-learning</a></p>.
+<p>The original code repository is here: <a href="https://github.com/mnielsen/neural-networks-and-deep-learning#license" target="_blank">neural-networks-and-deep-learning</a></p>
